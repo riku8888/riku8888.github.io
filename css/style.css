@@ -13,8 +13,8 @@ body
     font-size: 1.4rem;
     line-height: 1.6;
     letter-spacing: .1em;
-    color: ;
-    background-color: #FFD477;
+    color: rgb(0,132,178);
+    background-color: #FFFFFF;
 }
 
 a
@@ -141,7 +141,7 @@ section h2
 }
 
 #skill {
-    background-color: #4F82AA;
+    background-color: #0084b2;
 }
 
 #skills .container
@@ -153,7 +153,7 @@ section h2
 #skills h2
 {
     margin-bottom: 60px;
-    color: #4F82AA;
+    color: #b22e00;
 }
 #skills .skill-box
 {
@@ -167,7 +167,8 @@ section h2
     -webkit-border-radius: 4px;
        -moz-border-radius: 4px;
             border-radius: 4px;
-    background-color: #fdfcf6;
+    background-color: #0084b2;
+    color: #ffffff;
 }
 #skills i
 {
@@ -180,18 +181,18 @@ section h2
     margin-bottom: 5px;
     padding-top: 15px;
     text-align: center;
-    color: #fff;
+    color: #746442;
     -webkit-border-radius: 50%;
        -moz-border-radius: 50%;
             border-radius: 50%;
-    background-color: #746442;
+    background-color: #ffffff;
 }
 #skills h3
 {
     font-size: 2.4rem;
     font-weight: bold;
     margin-bottom: 10px;
-    color: #746442;
+    color: #ffffff;
 }
 
 #works
@@ -201,7 +202,7 @@ section h2
 #works h2
 {
     margin-bottom: 50px;
-    color: #F7C65B;
+    color: #b22e00;
 }
 #works .works-box
 {
@@ -261,11 +262,11 @@ section h2
     -webkit-border-radius: 4px;
        -moz-border-radius: 4px;
             border-radius: 4px;
-    background-color: #746442;
+    background-color: #0084b2;
 }
 #works .works-box a .works-box-inner .button-readmore:hover
 {
-    background-color: #5A7EC0;
+    background-color: #746442;
 }
 #works .works-box a:hover .works-box-inner
 {
@@ -286,7 +287,7 @@ section h2
 }
 
 #contact h2 {
-    color: #F7C65B;
+    color: #b22e00;
 }
 
 #contact ul
@@ -335,11 +336,11 @@ section h2
     -webkit-border-radius: 50%;
        -moz-border-radius: 50%;
             border-radius: 50%;
-    background-color: #14c0c;
+    background-color: #0084b2;
 }
 #contact ul a:hover
 {
-    background-color: #5A7EC0;
+    background-color: #746442;
 }
 
 footer
